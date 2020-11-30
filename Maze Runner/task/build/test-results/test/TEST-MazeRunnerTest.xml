@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MazeRunnerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-25T08:55:38" hostname="DESKTOP-70FUK9Q" time="0.074">
+  <properties/>
+  <testcase name="start" classname="MazeRunnerTest" time="0.074"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+████████████████████
+    ██  ██  ██    ██
+██  ██      ██  ████
+██      ██████      
+██  ██          ████
+██  ██  ██████  ████
+██  ██  ██      ████
+██  ██  ██████  ████
+██  ██      ██    ██
+████████████████████
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

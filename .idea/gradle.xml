@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Maze Runner/task" />
+            <option value="$PROJECT_DIR$/Problems/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Problems/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Problems/Find a value's index" />
+            <option value="$PROJECT_DIR$/Problems/Getting submaps" />
+            <option value="$PROJECT_DIR$/Problems/Interval" />
+            <option value="$PROJECT_DIR$/Problems/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
+            <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
