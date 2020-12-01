@@ -2,7 +2,7 @@ package maze;
 
 import java.util.Objects;
 
-public class Edge implements Comparable {
+public class Edge {
     private int weight = 0;
     private Vertex v1;
     private Vertex v2;
@@ -16,6 +16,10 @@ public class Edge implements Comparable {
         this.weight = weight;
         this.v1 = v1;
         this.v2 = v2;
+    }
+
+    public int getWeight() {
+        return weight;
     }
 
     public Vertex getV1() {
@@ -41,9 +45,4 @@ public class Edge implements Comparable {
         return Objects.hash(weight, v1, v2);
     }
 
-    @Override
-    public int compareTo(Object o) {
-        Edge edge = (Edge) o;
-        return this.weight - edge.weight;
-    }
 }

@@ -547,6 +547,12 @@ files:
 - name: src/maze/Edge.java
   visible: true
   learner_created: true
+- name: src/maze/Sortbyweight.java
+  visible: true
+  learner_created: true
+- name: src/maze/Sortbyvertex.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/47/stages/252/implement
 status: Unchecked
 record: -1

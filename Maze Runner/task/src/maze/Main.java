@@ -106,7 +106,7 @@ public class Main {
                 edges.add(new Edge(weight, new Vertex(j, i), new Vertex(j + 1, i)));
             }
         }
-        Collections.sort(edges);
+        edges.sort(new Sortbyweight());
     }
 
 }
